@@ -18,7 +18,6 @@ Daphnia-TAAM bridges the gap between large AI foundation models and real-time ed
 </p>
 
 <!-- Note: Replace with your actual Daphnia-TAAM GUI Snapshot if available -->
-![Daphnia-TAAM GUI Snapshot](https://github.com/yousaf2018/TAAM-Track-Any-Aquatic-Model/blob/main/source_code/assets/TAAM-GUI.png)
 
 ---
 
