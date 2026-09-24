@@ -1,4 +1,4 @@
-# Daphnia-TAAM: Track Any Aquatic Model (Small Animal Locomotion Edition)
+# Daphnia-TAAM: Track Any Aquatic Model For Daphina Locomotion Analysis
 
 **Daphnia-TAAM** is a high-performance, professional-grade desktop application designed specifically for the automated tracking and behavioral analysis of *Daphnia* and other small aquatic organisms in **top-view** and **lateral-view** locomotion studies.
 
